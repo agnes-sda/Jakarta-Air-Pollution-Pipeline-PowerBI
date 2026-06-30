@@ -7,7 +7,7 @@ This repository contains the data engineering infrastructure and interactive ana
 
 ## Interactive Dashboard
 * **Platform:** Microsoft Power BI
-* **Live Dashboard Link:** [View Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUyYjhmYjctZmJiMC00YzJlLWJlYTItN2ZjYWM0ODM1ZmI0IiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D)
+* **Live Dashboard Link:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmUyYjhmYjctZmJiMC00YzJlLWJlYTItN2ZjYWM0ODM1ZmI0IiwidCI6IjM0ODViOTYzLTgyYmEtNGE2Zi04MTBmLWI1Y2MyMjZmZjg5OCIsImMiOjEwfQ%3D%3D)
 
 ## Project Specifications
 * **Role:** Data Engineering & Analytics Developer
